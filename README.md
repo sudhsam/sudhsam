@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhsam&label=Profile%20views&color=0e75b6&style=flat" alt="sudhsam" /> </p>
 
-- 🌱 I’m currently learning **Java Full-Stack, Next.js**
+- 🌱 I’m currently learning **Java Full-Stack,React Native**
 
 - 👯 I’m looking to collaborate on **MERN-Stack Developer**
 
