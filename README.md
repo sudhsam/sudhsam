@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhsam&label=Profile%20views&color=0e75b6&style=flat" alt="sudhsam" /> </p>
 
-- 🌱 I’m currently learning **Java Full-Stack,React Native**
+- 🌱 I’m currently learning **Terraform (IaC)**
 
-- 👯 I’m looking to collaborate on **MERN-Stack Developer**
+- 👯 I’m looking to collaborate on **DevOps Engineer**
 
-- 💬 Ask me about **HTML5,CSS3 & MERN**
+- 💬 Ask me about **DevOps, CI/CD, Docker, Jenkins, AWS**
 
 - 📫 How to reach me **sudhsam1997@gmail.com**
 
